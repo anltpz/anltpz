@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [hoaxJava](https://github.com/anltpz/hoaxJava)
 
-- 🌱 I’m currently learning **Java Spring Boot**
-
-- 💬 Ask me about **Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **aniltopuz@gmail.com**
 
