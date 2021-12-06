@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anıl</h1>
-<h3 align="center">I am Backend Developer</h3>
+<h3 align="center">I am Android Developer</h3>
 
-- 🔭 I’m currently working on [hoaxJava](https://github.com/anltpz/hoaxJava)
 
 - 🌱 I’m currently learning **Kotlin**
 
